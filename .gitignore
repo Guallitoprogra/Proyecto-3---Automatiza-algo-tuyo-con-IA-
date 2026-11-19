@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+datos/
+datos_reales/
+*.log
+evidencias/importaciones/
+evidencias/casos_reales/
