@@ -1,0 +1,85 @@
+[
+  {
+    "caso": "pedidos",
+    "sha256": "80c80dd55a126b804ea8d05580319950583eb90c8078675a69a9aad7b68c8557",
+    "detectados": 7,
+    "importe_total": "657.75",
+    "primera_importacion": {
+      "guardados": 7,
+      "omitidos": 0,
+      "ids": [
+        "D0001",
+        "D0002",
+        "D0003",
+        "D0004",
+        "D0005",
+        "D0006",
+        "D0007"
+      ]
+    },
+    "segunda_importacion": {
+      "guardados": 0,
+      "omitidos": 7,
+      "ids": []
+    },
+    "avisos": [],
+    "tiempo_automatico_segundos": 0.5627,
+    "alcance": "OCR real e importación en registro temporal vacío, sin cambios al registro personal. Tipos y categorías requieren revisión; no se midió tiempo manual."
+  },
+  {
+    "caso": "tarjeta",
+    "sha256": "ea1e755dc3e5676301f1f7d8e976904a3857c403710c57037d760e74f226b217",
+    "detectados": 10,
+    "importe_total": "436.04",
+    "primera_importacion": {
+      "guardados": 10,
+      "omitidos": 0,
+      "ids": [
+        "D0001",
+        "D0002",
+        "D0003",
+        "D0004",
+        "D0005",
+        "D0006",
+        "D0007",
+        "D0008",
+        "D0009",
+        "D0010"
+      ]
+    },
+    "segunda_importacion": {
+      "guardados": 0,
+      "omitidos": 10,
+      "ids": []
+    },
+    "avisos": [],
+    "tiempo_automatico_segundos": 0.5492,
+    "alcance": "OCR real e importación en registro temporal vacío, sin cambios al registro personal. Tipos y categorías requieren revisión; no se midió tiempo manual."
+  },
+  {
+    "caso": "padel",
+    "sha256": "7af3a5dcb65e843846d147dbbb967efbaa2a509e6c33912a9c34a2884c2e1372",
+    "detectados": 4,
+    "importe_total": "388.02",
+    "primera_importacion": {
+      "guardados": 4,
+      "omitidos": 0,
+      "ids": [
+        "D0001",
+        "D0002",
+        "D0003",
+        "D0004"
+      ]
+    },
+    "segunda_importacion": {
+      "guardados": 0,
+      "omitidos": 4,
+      "ids": []
+    },
+    "avisos": [
+      "Importe Q80.00 omitido: el comercio no se ve completo. Revisa el texto OCR."
+    ],
+    "tiempo_automatico_segundos": 0.5495,
+    "alcance": "OCR real e importación en registro temporal vacío, sin cambios al registro personal. Tipos y categorías requieren revisión; no se midió tiempo manual."
+  }
+]
